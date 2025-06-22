@@ -1,8 +1,17 @@
-langchain 
-wikipedia 
-langchain-community 
-langchain-openai
-langchain-anthropic
+# langchain
+# langchain-core
+# langchain-community
+# langchain_google_genai
+# google-generativeai
+# python-dotenv
+# pydantic
+# duckduckgo-search
+langchain
+langchain-core
+langchain-community
+langchain_google_genai
+google-generativeai
 python-dotenv
 pydantic
 duckduckgo-search
+wikipedia
