@@ -36,8 +36,11 @@ cd your-repo-name
 ### Set Up a Virtual Environment:
 
 python -m venv venv
+
 .\venv\Scripts\activate  # Windows
-# or
+
+or
+
 source venv/bin/activate  # macOS/Linux
 
 ### Install Dependencies:
