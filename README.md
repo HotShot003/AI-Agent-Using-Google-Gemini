@@ -31,6 +31,7 @@ Internet Connection: Required for Gemini API, DuckDuckGo search, and Wikipedia a
 ### Clone the Repository:
 
 git clone https://github.com/your-username/your-repo-name.git
+
 cd your-repo-name
 
 ### Set Up a Virtual Environment:
